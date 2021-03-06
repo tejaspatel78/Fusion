@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
 });
 
 //  Listening Server
-app.listen(3030, async () => {
+app.listen(80, async () => {
     console.log(`*****************************************************************************`);
     console.log(`Server running`);
     console.log(`*****************************************************************************`);
