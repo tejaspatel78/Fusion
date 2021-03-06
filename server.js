@@ -9,6 +9,6 @@ app.get('/', (req, res) => {
 //  Listening Server
 app.listen(3030, async () => {
     console.log(`*****************************************************************************`);
-    console.log(`Server running at http://${host}`);
+    console.log(`Server running`);
     console.log(`*****************************************************************************`);
 });
